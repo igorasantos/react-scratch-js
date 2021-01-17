@@ -8,7 +8,7 @@ The motivations to have done this boilerplate are:
 - to avoid the abstractions that `create-react-app` does for us, when creating a new app project;
 - ensure more awareness about what dependencies are being used and how are being setted up in the development environment.
 
-## Source
+## Sources
 This boilerplate was made following the instructions on:
 - [this guide made by Journal service](https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658)
 - [this The Net Ninja's playlist on Youtube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR)
@@ -21,8 +21,8 @@ This boilerplate was made following the instructions on:
 - [CSS & Scss styleguide + lint]
 - [JS styleguide + lint]
 - [editor config]
-- [utilitário de formatação de código]
-- [integração formatador com linters]
+- [formatting code tool]
+- [integration of formatter and linters]
 - [Git hooks tool]
 - [Git hook precommit tool to apply lints on filechanges]
 - [Git commit lint]
